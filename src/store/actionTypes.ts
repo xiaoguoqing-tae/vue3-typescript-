@@ -1,0 +1,5 @@
+export const SET_CONSNAME = 'setConsName'
+export const SET_FILED = 'setFiled'
+export const SET_ERRORCODE = 'setErrorCode'
+export const SET_DATA = 'setdata'
+export const SET_LOGINE = 'setlogin'
